@@ -208,3 +208,7 @@ where each behaviour lives in the code and how to add a setting to `.env`.
 
 - **Auto-apply agent:** the extension isn't part of this repository; the toolkit only downloads the one you choose (`AGENT_REPO`) and prefills its profile. Respect its author's license.
 - **Dossier:** [AienTech/dossier](https://github.com/AienTech/dossier), used unmodified through its Docker image.
+
+## License
+
+[MIT](LICENSE). This covers the toolkit's own code; Dossier and the auto-apply extension keep their own licenses.
