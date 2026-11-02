@@ -1,0 +1,13 @@
+# your settings and secrets never leave this machine
+.env
+dossier/profile.json
+# runtime data
+email-script/data/
+**/logs/
+**/__pycache__/
+*.pyc
+.DS_Store
+# resumes and generated documents
+*.pdf
+*.docx
+!dossier/profile.example.json

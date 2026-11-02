@@ -1,0 +1,6 @@
+services:
+  app:
+    # the image is amd64-only: on Apple Silicon this runs under Rosetta (Colima: --vz-rosetta)
+    platform: linux/amd64
+    # Chromium needs room to print PDFs (1g ran out of memory)
+    mem_limit: 2g

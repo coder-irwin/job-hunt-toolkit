@@ -1,0 +1,164 @@
+{
+ "format": "dossier-export",
+ "schemaVersion": 5,
+ "appVersion": "1.9.2",
+ "exportedAt": "2026-01-01T00:00:00.000Z",
+ "themes": [],
+ "settings": [],
+ "applications": [],
+ "postings": [],
+ "searches": [],
+ "agentCandidates": [],
+ "startups": [],
+ "startupBlocks": [],
+ "profile": {
+  "fields": [
+   {
+    "key": "name",
+    "value": "Your Name"
+   },
+   {
+    "key": "headline",
+    "value": "AI/ML Engineer · LLM applications, RAG, agents"
+   },
+   {
+    "key": "email",
+    "value": "you@example.com"
+   },
+   {
+    "key": "phone",
+    "value": "+91 9000000000"
+   },
+   {
+    "key": "city",
+    "value": "Pune"
+   },
+   {
+    "key": "country",
+    "value": "India"
+   },
+   {
+    "key": "website",
+    "value": "https://github.com/your-username"
+   },
+   {
+    "key": "summary",
+    "value": "AI/ML engineer building production LLM applications: RAG pipelines, agentic workflows and APIs in Python/FastAPI. Write it in the first person, only true facts."
+   }
+  ],
+  "skills": [
+   {
+    "id": "sk0",
+    "name": "Python",
+    "sort": 0,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+   },
+   {
+    "id": "sk1",
+    "name": "FastAPI",
+    "sort": 1,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+   },
+   {
+    "id": "sk2",
+    "name": "RAG",
+    "sort": 2,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+   },
+   {
+    "id": "sk3",
+    "name": "LangChain",
+    "sort": 3,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+   },
+   {
+    "id": "sk4",
+    "name": "Docker",
+    "sort": 4,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+   },
+   {
+    "id": "sk5",
+    "name": "SQL",
+    "sort": 5,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+   }
+  ],
+  "languages": [
+   {
+    "id": "la1",
+    "name": "English",
+    "level": "C2",
+    "sort": 0,
+    "createdAt": "2026-01-01T00:00:00.000Z"
+   }
+  ],
+  "experience": [
+   {
+    "id": "ex1",
+    "role": "AI/ML Engineer",
+    "company": "Company Name",
+    "location": "Pune",
+    "startYear": 2025,
+    "startMonth": 8,
+    "endYear": null,
+    "endMonth": null,
+    "current": true,
+    "bullets": "Built <what> with <tools>, reaching <real number from your resume>.\nSecond achievement, one per line.",
+    "sort": 0,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "skillIds": [
+     "sk0",
+     "sk1"
+    ]
+   }
+  ],
+  "projects": [
+   {
+    "id": "pr1",
+    "name": "Project Name",
+    "link": "",
+    "startYear": null,
+    "startMonth": null,
+    "endYear": null,
+    "endMonth": null,
+    "current": false,
+    "bullets": "What it does and the stack.\nThe result.",
+    "sort": 0,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z",
+    "skillIds": [
+     "sk2"
+    ]
+   }
+  ],
+  "education": [
+   {
+    "id": "ed1",
+    "degree": "B.Tech, Computer Science",
+    "school": "Your College",
+    "startYear": 2021,
+    "startMonth": null,
+    "endYear": 2025,
+    "endMonth": null,
+    "current": false,
+    "notes": "",
+    "sort": 0,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+   }
+  ],
+  "publications": [],
+  "references": [],
+  "facts": [
+   {
+    "id": "fa1",
+    "text": "Notice period: 30 days.",
+    "sort": 0,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+   }
+  ]
+ }
+}
